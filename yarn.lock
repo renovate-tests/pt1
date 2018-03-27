@@ -6,6 +6,6 @@
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@rarkins/private-module-test/-/private-module-test-1.0.0.tgz#477eaae1437c8f206796460b6d0969be4df7a676"
 
-left-pad@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/left-pad/-/left-pad-1.1.0.tgz#47a2daf581ede454334dee6c6036cae00d912e4d"
+left-pad@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/left-pad/-/left-pad-1.2.0.tgz#d30a73c6b8201d8f7d8e7956ba9616087a68e0ee"
